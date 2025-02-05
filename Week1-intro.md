@@ -1,8 +1,8 @@
 ## Week 1: Finding our goals & values and SciComm 101
 
-#### 9:35am - 9:50am
+#### 9:35am - 9:50am Class Introductions
 
-Class Introductions - introduce yourself by stating:
+Each person introduce yourself by stating:
 * Name, graduate program, PI lab, and research topic
 * Why are you interested in Science Communication?
 * What previous SciComm expereience do you have?
@@ -21,5 +21,5 @@ Values worksheet exercise - (PDF download here)[https://brenebrown.com/wp-conten
 
 
 
-### 10:35 - 10:50 Class discussion & wrap-up
+#### 10:35 - 10:50 Class discussion & wrap-up
 
