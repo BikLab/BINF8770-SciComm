@@ -12,31 +12,31 @@ Course Schedule:
 
 #### Week 2: What is Science Communication?
 * Careers, Case Studies, Mistaken Assumptions
-* **Pre-Class Reading:*** Kearns Ch. 1 and 2
+* **Pre-Class Reading:** Kearns Ch. 1 and 2
 
 #### Week 3: 
 * 
-* **Pre-Class Reading:***
+* **Pre-Class Reading:**
 
 #### Week 4: 
 * 
-* **Pre-Class Reading:***
+* **Pre-Class Reading:**
 
 #### Week 5: 
 * 
-* **Pre-Class Reading:***
+* **Pre-Class Reading:**
 
 #### Week 6: 
 * 
-* **Pre-Class Reading:***
+* **Pre-Class Reading:**
 
 #### Week 7: 
 * 
-* **Pre-Class Reading:***
+* **Pre-Class Reading:**
 
 #### Week 8: 
 * 
-* **Pre-Class Reading:***
+* **Pre-Class Reading:**
 
 #### Week 9: 
 * 
