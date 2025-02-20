@@ -11,37 +11,37 @@ Course Schedule:
 * SciComm categories, tools, and audiences
 
 #### Week 2: What is Science Communication?
-* Careers, Case Studies, Mistaken Assumptions
+* What is Science Communication? Careers, Case Studies, and Mistaken Assumptions
 * **Pre-Class Reading:** Kearns Ch. 1 and 2
 
 #### Week 3: 
-* 
-* **Pre-Class Reading:**
+* The importance of building relationships, and how to navigate facts and feelings in SciComm
+* **Pre-Class Reading:** Kearns Ch. 3 and 4
 
 #### Week 4: 
-* 
-* **Pre-Class Reading:**
+* Building listening skills, and learning how to navigate conflict and collective trauma 
+* **Pre-Class Reading:** Kearns Ch. 5, 6, and 7
 
 #### Week 5: 
-* 
-* **Pre-Class Reading:**
+* Strategic science communication – brainstorming your strategy, implementation, and evaluation 
+* **Pre-Class Reading:** Besley & Dudo Ch. 1
 
 #### Week 6: 
-* 
-* **Pre-Class Reading:**
+* The Science Deficit Model and the pitfalls of pursuing science knowledge as a communications goal
+* **Pre-Class Reading:** Besley & Dudo Ch. 2
 
 #### Week 7: 
-* 
-* **Pre-Class Reading:**
+* Strategic Science Communication: Show warmth and integrity, and be willing to listen
+* **Pre-Class Reading:** Besley & Dudo Ch. 3, 4, and 5
 
 #### Week 8: 
-* 
-* **Pre-Class Reading:**
+* Strategic Science Communication: Show you are not that different, show competence, and share risks and benefits
+* **Pre-Class Reading:** Besley & Dudo Ch. 6, 7, and 8
 
 #### Week 9: 
-* 
-* **Pre-Class Reading:***
+* Strategic Science Communication: Share what other people think is normal, foster self-efficacy, and share emotions and frames (carefully!)
+* **Pre-Class Reading:*** Besley & Dudo Ch. 9, 10, and 11
 
 #### Week 10: 
-* 
-* **Pre-Class Reading:***
+* Class Wrap-up and Showcase: Presenting your Strategic SciComm Plan
+* **Pre-Class Reading:*** Besley & Dudo Ch. 12
