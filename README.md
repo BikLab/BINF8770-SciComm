@@ -40,8 +40,8 @@ Course Schedule:
 
 #### Week 9: 
 * Strategic Science Communication: Share what other people think is normal, foster self-efficacy, and share emotions and frames (carefully!)
-* **Pre-Class Reading:*** Besley & Dudo Ch. 9, 10, and 11
+* **Pre-Class Reading:** Besley & Dudo Ch. 9, 10, and 11
 
 #### Week 10: 
 * Class Wrap-up and Showcase: Presenting your Strategic SciComm Plan
-* **Pre-Class Reading:*** Besley & Dudo Ch. 12
+* **Pre-Class Reading:** Besley & Dudo Ch. 12
