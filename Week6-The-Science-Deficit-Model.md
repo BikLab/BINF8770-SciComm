@@ -7,7 +7,7 @@ The Science Deficit Model: removing a “deficit” in what people know will imm
 Much science communication training (including many prominent programs/centers) convey a message that _“Effective communication is largely about being understandable and interesting”_ (Besley & Dudo). 
 * Watch Example Video from the Alda Center "Flame Challenge": Winning 2018 video for **What is Climate?** - https://vimeo.com/258363386
 
-_Sharing scientific knowledge and getting people to feel things like excitement are only two of many potentially important communication objectives that communicators need to focus on if they have goals that involve affecting actual, real-world behavior_ (Besley & Dudo pg 50)
+_"Sharing scientific knowledge and getting people to feel things like excitement are only two of many potentially important communication objectives that communicators need to focus on if they have goals that involve affecting actual, real-world behavior"_ (Besley & Dudo pg 50)
 
 Being “clear and vivid” are only two tactics you can employ, out of many other potential tactics. 
 
@@ -30,7 +30,7 @@ _"We would go so far as to say that getting science communicators to think beyon
 
 Besley & Dudo think some of these critiques go to far, and see the focus on the “deficit model” as an overreliance on a single objective. They also think it would be odd if knowledge was not an important objective for science communicators. 
 
-**It is important to remember:** _"Researchers’ unique access to hard-won knowledge is the ticket that gets us invited to play a central role in public (and private) discussions about issues in which we have expertise._ (Besley & Dudo pg 54)
+**It is important to remember:** _"Researchers’ unique access to hard-won knowledge is the ticket that gets us invited to play a central role in public (and private) discussions about issues in which we have expertise."_ (Besley & Dudo pg 54)
 
 #### What tactics can help science communicators share knowledge?
 
@@ -42,8 +42,15 @@ Reports from informal science educators (at museums, zoos, aquariums, etc.) sugg
    
 The effectively creates a series of scenarios in which people teach themselves rather than trying to give people information and hope they retain that information. **(Although note that much of informal education focuses on younger audiences)**
 
-Portal to the Public – training starts with educational theories and “how people learn” 
-•	This is also consistent with ideas found in persuasion research – how do people come to believe what they believe?
+Portal to the Public case study: training starts with educational theories and “how people learn”. This is also consistent with ideas found in persuasion research – how do people come to believe what they believe?
+
+* My favorite resource on how people learn is the following book: Ambrose et al. (2010) [How learning works: Seven Reasearch-based principles for smart teaching](https://firstliteracy.org/wp-content/uploads/2015/07/How-Learning-Works.pdf) - link goes to full copy PDF of this book.
+ 
+<img width="421" alt="Screenshot 2025-03-26 at 3 56 06 PM" src="https://github.com/user-attachments/assets/1dc69b4b-f4bd-46c4-b016-05c336552341" />
+
+<img width="395" alt="Screenshot 2025-03-26 at 3 55 49 PM" src="https://github.com/user-attachments/assets/ae26d9c6-247a-49d6-8829-78c346e789a8" />
+
+<img width="411" alt="Screenshot 2025-03-26 at 3 57 01 PM" src="https://github.com/user-attachments/assets/e352a9a9-c4e9-494b-9e97-5a098cef394a" />
 
 #### Jargon
 
