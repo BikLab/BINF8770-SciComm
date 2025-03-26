@@ -47,15 +47,15 @@ Portal to the Public – training starts with educational theories and “how pe
 #### Dialogue 
 
 Citizen Conference on Food Biotechnology case study: 
-•	Creating dialogue-focused situations may help people slow down and think through science and technology issues
-•	Dialogue can contribute to learning as a function of cognitive processing
-•	Learning about the science was not the only type of “learning” that occurred - Participants also developed other types of beliefs about the technology, key actors, and their own selves
-•	Research has shown that exposure and attention to a range of ideas through media and interpersonal discussion is associated with relatively higher levels of knowledge – news/media can be thought of as “mediated dialogue” and have cumulative effects over time. 
-•	Reading and talking seem to be especially important, as they require higher levels of cognitive effort
 
-## Two closing concerns
+* Creating dialogue-focused situations may help people slow down and think through science and technology issues
+* Dialogue can contribute to learning as a function of cognitive processing
+* Learning about the science was not the only type of “learning” that occurred - Participants also developed other types of beliefs about the technology, key actors, and their own selves
+* Research has shown that exposure and attention to a range of ideas through media and interpersonal discussion is associated with relatively higher levels of knowledge – news/media can be thought of as “mediated dialogue” and have cumulative effects over time.
+* Reading and talking seem to be especially important, as they require higher levels of cognitive effort
+
+## Two closing concerns to ponder
 
 1)	Motivating people to think deeply about an issue may lead them to learn incorrect science (including misinformation or disinformation) 
 2)	Focusing too much on knowledge may “lead scientists to act like jerks”
-3)	
 
