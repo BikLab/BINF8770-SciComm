@@ -4,6 +4,12 @@ _“Fostering trustworthiness-related beliefs is central to any long-term commun
 
 #### Show Warmth (Chapter 3)
 
+Pew Study Results (November 2024 - https://www.pewresearch.org/science/2024/11/14/public-trust-in-scientists-and-views-on-their-role-in-policymaking/)
+
+<img width="476" alt="Screenshot 2025-04-03 at 9 26 28 AM" src="https://github.com/user-attachments/assets/8abd5e61-4a45-4798-b875-820517519728" />
+
+<img width="564" alt="Screenshot 2025-04-03 at 9 27 25 AM" src="https://github.com/user-attachments/assets/786b43eb-a790-4289-a5a1-7eb938de4449" />
+
 “Trust” is a big and vague thing, and it would be more beneficial to think of this concept at a granular level, for example:
 
 * Using technical language, or mentioning your PhD degree shows you are competent
