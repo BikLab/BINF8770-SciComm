@@ -58,7 +58,7 @@ What we know about communicating competence:
 * Font choice, poor quality printing (i.e. low toner), and poor audio quality can lower the perception of a writer/speaker’s intelligence and competence
 * Professional attire and presentation quality also increase competence perceptions
 
-Focus on high-quality communications, but ensure high-quality of the underlying science  otherwise you risk coming across as a “smooth-talking snake-oil salesman” with style over substance
+Focus on high-quality communications, but ensure high-quality of the underlying science - otherwise you risk coming across as a “smooth-talking snake-oil salesman” with style over substance!
 
 **What about controversy?**
 * You can communicate that people arguing against a consensus are likely wrong
