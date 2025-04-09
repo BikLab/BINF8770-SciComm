@@ -11,12 +11,10 @@ Your communication choices can change the odds that people will feel similar to 
 **“In-reach”** (technical / scientific audiences) vs. **“Out-reach”** (non-scientist audiences)
 
 Research by Douglas and Wildavasky - We can generally understand everyone’s values by finding out whether they prioritize: 
-
 1) Individualism (valuing economic and personal freedom) or Communitarianism (ensuring rights of the entire community over an individual)
 2) Hierarchy  (want people to respect and obey authority) or Egalitarianism (see less value in having to attend to oppressive oversight) 
 
 Cultural values are how individuals and groups think the world – including social relationships – should be structured. _“Shared conceptions of what is good and desirable in the culture”_ (quote from Schwartz)
-
 * People use their values to evaluate others and guide their own choices, and thus can drive views about a range of issues
 
 _“In a time when there are too many complicated issues for any of us to understand, we all use our values to make sense of the world…you can often better predict someone’s views on nuclear energy by knowing their views about gun control, health issues, or global warming.”_ (Besley & Dudo pg 142)
