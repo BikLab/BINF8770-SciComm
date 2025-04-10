@@ -53,7 +53,7 @@ What we know about communicating competence:
 
 * People shift their opinions towards the direction of “high credibility sources” in the short term (info coming from scientific journals, esteemed scientists)
 * Fluent speech (cutting out pauses, hesitations, filler words, and repetitions) increases perceptions of the speaker’s competence – so definitely practice your public speaking skills, and get good at this!
-* Reducing jargon and using plain language increases perceptions of competence – readers “subconsciously punish technical language” (study by Daniel Oppenheimer)
+* Reducing jargon and using plain language increases perceptions of competence – readers “subconsciously punish technical language” (study by Daniel Oppenheimer) - a good practical exercise for this is Upgoer5 (communicate your research using only the most ten hundred common words): https://splasho.com/upgoer5/ 
 * Using statistics and numbers increases perceptions of competence, while narrative storytelling decreases competence perceptions (but note that storytelling helps foster warmth beliefs, which is also important!)
 * Font choice, poor quality printing (i.e. low toner), and poor audio quality can lower the perception of a writer/speaker’s intelligence and competence
 * Professional attire and presentation quality also increase competence perceptions
@@ -102,9 +102,10 @@ _“It is quite common in risk perception research to find that people who see s
 Completely unrelated risks sometimes group together, e.g. Global warming + water pollution + animal extinction
 
 Communicating uncertainty – the authors believe that the choice to communicate uncertainty should be based on ethics rather than strategy 
-•	Don’t be unethical like Tobacco or Oil companies!
-•	But also, don’t hide uncertainty because you are worried about negative reactions from your audience.
-•	Figure out what is ethical, reasonable, and impactful for specific SciComm scenarios
+
+* Don’t be unethical like Tobacco or Oil companies!
+* But also, don’t hide uncertainty because you are worried about negative reactions from your audience.
+* Figure out what is ethical, reasonable, and impactful for specific SciComm scenarios
 
 Experiment: Trading in a normal cookie for a GM cookie – people were more willing to do so when they were first told about the benefits of genetically modified crops beforehand (less pesticide use, drought resistance, etc)
 
