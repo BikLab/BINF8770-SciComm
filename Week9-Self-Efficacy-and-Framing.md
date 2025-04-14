@@ -113,16 +113,14 @@ Some approaches to framing:
     * Everyday examples – a glass being half-empty vs. half-full, milk being 99% fat-free or having 1% fat.
 * **Generic frames** – general frames that make sense for multiple issues. These can include:
     * <ins>Conflict Framing</ins> – the issue comes across as a conflict between two sides (e.g. Homeowners want X, but the Government wants Y). Conflict framing is often just lazy journalism, where too much attention is given to contrarian voices!
-    * Episodic Framing – where an issue is presented as something that affects a single individual or specific event. (e.g. a homeowner losing their home during a specific hurricane) – tugs on emotional heartstrings but mistakenly implies we need to solve problems one at a time (vs. see the broader issue)
+    * <ins>Episodic Framing</ins> – where an issue is presented as something that affects a single individual or specific event. (e.g. a homeowner losing their home during a specific hurricane) – tugs on emotional heartstrings but mistakenly implies we need to solve problems one at a time (vs. see the broader issue)
     * <ins>Thematic framing</ins> – focus is put on the overall issue, rather than a specific antidote 
 
-“For framing to work, people need ot have a concept available in their head (e.g. the value of saving lives) that is cognitively accessible when faced with a new situation. Put differently, framing can make specific types of beliefs relevant to the underlying issue.” (Besley & Dudo pg. 255)
+_“For framing to work, people need ot have a concept available in their head (e.g. the value of saving lives) that is cognitively accessible when faced with a new situation. Put differently, framing can make specific types of beliefs relevant to the underlying issue.”_ (Besley & Dudo pg. 255)
 
 Terminology can be a compelling (and divisive) way to frame issues:
-•	“climate change” vs. “global warming”
-•	“genetic engineering” vs. “genetic modification”
-•	“estate taxes” vs. “death taxes” 
+* “climate change” vs. “global warming”
+* “genetic engineering” vs. “genetic modification”
+* “estate taxes” vs. “death taxes” 
 
-
-“Construal Level” framing – making choices about how concretely or abstractly an issue is described
-![image](https://github.com/user-attachments/assets/b0eb700d-19c0-4df3-87a6-431f853db002)
+**“Construal Level” framing** – making choices about how concretely or abstractly an issue is described
