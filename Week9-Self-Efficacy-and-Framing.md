@@ -112,9 +112,9 @@ Some approaches to framing:
 * **Equivalence Framing** – changing the emphasis without changing the core component (e.g. Tversky/Kahneman study where changing the presentation of the data about disease death vs. recovery impacted survey respondents’ answers in predictable ways).
     * Everyday examples – a glass being half-empty vs. half-full, milk being 99% fat-free or having 1% fat.
 * **Generic frames** – general frames that make sense for multiple issues. These can include:
-    * Conflict Framing – the issue comes across as a conflict between two sides (e.g. Homeowners want X, but the Government wants Y). Conflict framing is often just lazy journalism, where too much attention is given to contrarian voices!
+    * <ins>Conflict Framing</ins> – the issue comes across as a conflict between two sides (e.g. Homeowners want X, but the Government wants Y). Conflict framing is often just lazy journalism, where too much attention is given to contrarian voices!
     * Episodic Framing – where an issue is presented as something that affects a single individual or specific event. (e.g. a homeowner losing their home during a specific hurricane) – tugs on emotional heartstrings but mistakenly implies we need to solve problems one at a time (vs. see the broader issue)
-    * <u>Thematic framing<\u> – focus is put on the overall issue, rather than a specific antidote 
+    * <ins>Thematic framing</ins> – focus is put on the overall issue, rather than a specific antidote 
 
 “For framing to work, people need ot have a concept available in their head (e.g. the value of saving lives) that is cognitively accessible when faced with a new situation. Put differently, framing can make specific types of beliefs relevant to the underlying issue.” (Besley & Dudo pg. 255)
 
