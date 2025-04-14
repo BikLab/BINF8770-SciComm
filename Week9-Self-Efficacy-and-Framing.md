@@ -12,7 +12,7 @@
 
 Besley & Dudo argue that _“science communicators should consider prioritizing communicatying about the sometimes-hidden behaviors and expectations of people who are important to their key audiences.”_ 
 
-MSU Ducks Campaign - cartoon ducks posters aimed at promoting responsible drinking behavior (logic of the campaign is that “students make better decisions when  they believe most other students are also making good decisions”)
+[MSU Ducks Campaign](https://www.instagram.com/msusocialnorms/?hl=en) - cartoon ducks posters aimed at promoting responsible drinking behavior (logic of the campaign is that “students make better decisions when  they believe most other students are also making good decisions”)
 
 Communicating social norms is important because people often (pg 208):
 1)	Use other people’s behaviors and opinions to make sense of an uncertain world, especially when they want to fit in
