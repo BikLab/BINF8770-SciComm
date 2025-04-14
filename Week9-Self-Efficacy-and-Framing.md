@@ -49,7 +49,7 @@ Hypothesis that consensus perceptions (e.g. climate change) are “gateway belie
 _“The idea of self-efficacy has emerged as a crucial driver of whether someone will try a challenging behavior, the amount of effort that will go into achieving that behavior, and whether the effort will be sustained over time.”_ (Besley & Dudo pg 228)
 
 **Perceived behavioral control** – people sometimes fail to do a behavior because they are simple unable to or feel unable to (e.g. baking homemade bread, building a garden shed)
-* Lack of skills and resources can create barriers for people considering a behavior
+* Lack of <ins>skills</ins> and <ins>resources</ins> can create barriers for people considering a behavior
 * Lack of skills may come from perceptions of capacity or internal control (“internal efficacy” – a person’s sense of one’s own competence) 
 * Lack of resources could be lack of autonomy or external control, stemming from economic, regulatory, or time-based pressures. 
 
