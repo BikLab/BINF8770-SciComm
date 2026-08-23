@@ -45,3 +45,9 @@ Course Schedule:
 #### Week 10: 
 * Class Wrap-up and Showcase: Presenting your Strategic SciComm Plan
 * **Pre-Class Reading:** Besley & Dudo Ch. 12
+
+---
+
+## SciComm Links and Resources
+
+Athens Science Alliance (local SciComm groups and events in Athens, GA) - https://linktr.ee/AthensScienceAlliance
