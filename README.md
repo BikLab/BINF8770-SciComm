@@ -50,4 +50,5 @@ Course Schedule:
 
 ## SciComm Links and Resources
 
-Athens Science Alliance (local SciComm groups and events in Athens, GA) - https://linktr.ee/AthensScienceAlliance
+* Athens Science Alliance (local SciComm groups and events in Athens, GA) - https://linktr.ee/AthensScienceAlliance
+* The Open Notebook - introduction to science writing (course syllabus + articles): https://www.theopennotebook.com/2025/08/19/presenting-our-first-sample-course-syllabus-introduction-to-science-writing/
